@@ -11,8 +11,8 @@ def add_todo():
 
 
 
-st.title("My Todo App")
-st.subheader("This is my todo app")
+st.title("Reuben's Todo App")
+st.subheader("This is todo app")
 st.write('This app is to increase your productivity')
 
 for index,todo in enumerate(todos):
